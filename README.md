@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## ✨ My informations ✨ 
+#### ✨ My informations ✨ 
 
 
 
@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with Solidity langage
 
 
-## ✨ Contact ✨ 
+#### ✨ Contact ✨ 
 
 - 📫 How to reach me: 
 
@@ -21,7 +21,7 @@
   - 💻 Send me an email adam.fraga@live.fr
 
 
-## ✨ Donnation ✨ 
+#### ✨ Donnation ✨ 
 
 ₿ DONATE CRYPTO
 
