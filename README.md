@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
 **adam-fraga/adam-fraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Solidity (Smart contract & Datavisualition & Web app)
 - 🌱 I’m currently learning Blockchain & Machine learning
