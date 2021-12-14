@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**adam-fraga/adam-fraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ My informations ✨ 
 
 
 
@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with Solidity langage
 
 
-
+## ✨ Contact ✨ 
 
 - 📫 How to reach me: 
 
@@ -18,9 +18,10 @@
   - 📹 Follow me on YouTube (Soon)
   - 🐦 I post blogs and videos to Twitter https://twitter.com/AD_MINDSET
   - 🔌 Ask questions and get support on Discord https://discord.gg/UhE5hQ8c
+  - 💻 Send me an email adam.fraga@live.fr
 
 
-
+## ✨ Donnation ✨ 
 
 ₿ DONATE CRYPTO
 
