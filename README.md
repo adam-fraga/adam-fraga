@@ -20,9 +20,3 @@
   - 🔌 Ask questions and get support on Discord https://discord.gg/UhE5hQ8c
   - 💻 Send me an email adam.fraga@live.fr
 
-
-#### ✨ Donnation ✨ 
-
-₿ DONATE CRYPTO
-
-MyWallet => 0xAD6350487FA3A55A694209A00345668eE51Cb784
