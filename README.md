@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Solidity (Smart contract & Datavisualition & Web app)
 - 🌱 I’m currently learning Blockchain & Machine learning
 - 👯 I’m looking to collaborate on Solidity & Web3
-- 🤔 I’m looking for help with Solidity langage
+- 🤔 I’m looking for solidity projects
 
 
 #### ✨ Contact ✨ 
