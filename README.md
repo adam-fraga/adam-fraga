@@ -19,8 +19,8 @@
 
 - 📫 How to reach me: 
 
-  - 🕸️ Check out my Website (Workink progress)
-  - 📹 Follow me on YouTube (Soon)
+  - 🕸️ Check out my Website (Work in progress)
+  - 📹 Follow me on YouTube (Work in progress)
   - 🐦 I post blogs and videos to Twitter https://twitter.com/AD_MINDSET
   - 🔌 Ask questions and get support on Discord https://discord.gg/UhE5hQ8c
   - 💻 Send me an email adam.fraga@live.fr
