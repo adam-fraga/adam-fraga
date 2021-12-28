@@ -4,10 +4,15 @@
 
 
 
-- 🔭 I’m currently working on Solidity (Smart contract & Datavisualition & Web app)
-- 🌱 I’m currently learning Blockchain & Machine learning
-- 👯 I’m looking to collaborate on Solidity & Web3
-- 🤔 I’m looking for solidity projects
+- 🔭 I’m currently working on:
+
+    -  A youtube channel
+    -  Solidity Smart contracts
+    -  Web3 with Python
+    -  And Web app with Django & React.
+    
+   
+- 🌱 I’m currently learning Blockchain & Web Developpement.
 
 
 #### ✨ Contact ✨ 
