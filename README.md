@@ -9,7 +9,7 @@
     -  A youtube channel
     -  Solidity Smart contracts
     -  Web3 with Python
-    -  And Web app with Django & React.
+    -  Web apps with Django & React.
     
    
 - 🌱 I’m currently learning Blockchain & Web Developpement.
