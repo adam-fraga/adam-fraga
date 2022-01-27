@@ -6,21 +6,21 @@
 
 - 🔭 I’m currently working on:
 
-    -  A youtube channel
+    -  My youtube channel
     -  Solidity Smart contracts
     -  Web3 with Python
-    -  Web apps with Django & React.
+    -  Software Development with C# .
     
    
-- 🌱 I’m currently learning Blockchain & Web Developpement.
+- 🌱 I’m currently learning Blockchain, Sofwtare & Web Developpement.
 
 
 #### ✨ Contact ✨ 
 
 - 📫 How to reach me: 
 
-  - 🕸️ Check out my Website (Work in progress)
-  - 📹 Follow me on YouTube (Work in progress)
+  - 🕸️ Check out my Website https://adam-fraga.students-laplateforme.io/ (New website in progress)
+  - 📹 Follow me on YouTube https://www.youtube.com/channel/UCcSD-gm8MWpugT6fHKYwcbw
   - 🐦 I post blogs and videos to Twitter https://twitter.com/AD_MINDSET
   - 🔌 Ask questions and get support on Discord https://discord.gg/UhE5hQ8c
   - 💻 Send me an email adam.fraga@live.fr
