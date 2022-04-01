@@ -4,17 +4,15 @@
 
 
 
-- 🔭 I’m currently working on:
-
-    -  API
-    -  Php/Laravel/ReactJS
-    -  .NET CORE
-    -  Software Development with C# .
+- 🔭 I’m currently working as a Fullstack Web developer:
     
+    -Stack: Symfony/ReactJS
    
-- 🌱 I’m currently learning Sofwtare & Web Developpement.
-
-
+- 🌱 I’m currently learning VR/AR & Scripting.
+- 
+    -C#/Unity
+    -Python/Lua
+    
 #### ✨ Contact ✨ 
 
 - 📫 How to reach me: 
@@ -24,4 +22,3 @@
   - 🐦 I post blogs and videos to Twitter https://twitter.com/AD_MINDSET 
   - 🔌 Ask questions and get support on Discord https://discord.gg/UhE5hQ8c
   - 💻 Send me an email adam.fraga@live.fr
-
