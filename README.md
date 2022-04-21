@@ -8,10 +8,9 @@
     
     -Stack: Symfony/ReactJS
    
-- 🌱 I’m currently learning VR/AR & Scripting.
-- 
-    -C#/Unity
-    -Python/Lua
+- 🌱 I’m currently learning Rust & Scripting with Lua.
+
+    -Rust/Lua
     
 #### ✨ Contact ✨ 
 
