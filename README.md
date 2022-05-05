@@ -4,20 +4,23 @@
 
 
 
-- 🔭 I’m currently working as a Fullstack Web developer:
+- 🔭 I’m currently working as a Fullstack Web software developer @Tekoway:
     
-    -Stack: Symfony/ReactJS
+    Main Stack:
+        - Typescript -> ReactJS
+        - PHP -> Symfony/Laravel
    
-- 🌱 I’m currently learning Rust & Scripting with Lua.
+- 🌱 I’m currently falling in love with Rust so i made project on my free time 👻
 
-    -Rust/Lua
+- 🫥 I use Neovim as my main text editor which is entierly config in Lua lang!
+
     
 #### ✨ Contact ✨ 
 
 - 📫 How to reach me: 
 
-  - 🕸️ Check out my Website https://adam-fraga.students-laplateforme.io/ (New website in progress)
-  - 📹 Follow me on YouTube https://www.youtube.com/channel/UCcSD-gm8MWpugT6fHKYwcbw (New channel in progress)
+  - 🕸️ Website: (New website in progress)
+  - 📹 Follow me on YouTube https://www.youtube.com/channel/UCcSD-gm8MWpugT6fHKYwcbw
   - 🐦 I post blogs and videos to Twitter https://twitter.com/AD_MINDSET 
   - 🔌 Ask questions and get support on Discord https://discord.gg/UhE5hQ8c
-  - 💻 Send me an email adam.fraga@live.fr
+  - 💻 Send me an email adam.fraga@hotmail.
