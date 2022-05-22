@@ -5,10 +5,6 @@
 
 
 - 🔭 I’m currently working as a Fullstack Web software developer @Tekoway:
-<br>
-     Typescript: ReactJS<br>
-     Php: Symfony & Laravel<br>
-<br>
    
 - 🌱 I’m currently learning Rust as my future main server langage 👻
 
