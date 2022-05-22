@@ -4,11 +4,11 @@
 
 
 
-- 🔭 I’m currently working as a Fullstack Web software developer @Tekoway:
+- 🔭 I’m currently working as a Fullstack Web software developer @Tekoway.
    
-- 🌱 I’m currently learning Rust as my future main server langage 👻
+- 🌱 I’m currently learning Rust as my future main server langage.
 
-- 🫥 I use Neovim as my main text editor which is entierly config in Lua lang!
+- 🫥 I use Neovim as my main text editor which is entierly config in Lua.
 
     
 #### ✨ Contact ✨ 
