@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working as a Fullstack Web software developer @Tekoway:
     
-    Main Stack:
-        - Typescript -> ReactJS
-        - PHP -> Symfony/Laravel
+    Main Stack:<br><br>
+        - Typescript -> ReactJS<br>
+        - PHP -> Symfony/Laravel<br><br>
    
-- 🌱 I’m currently falling in love with Rust so i made project on my free time 👻
+- 🌱 I’m currently learning Rust as my future main server langage 👻
 
 - 🫥 I use Neovim as my main text editor which is entierly config in Lua lang!
 
