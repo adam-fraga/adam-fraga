@@ -15,8 +15,8 @@
 
 - 📫 How to reach me: 
 
-  - 🕸️ Website: (New website in progress)
+  - 🕸️ Website: http://ad-mindset.com
   - 📹 Follow me on YouTube https://www.youtube.com/channel/UCcSD-gm8MWpugT6fHKYwcbw
   - 🐦 I post blogs and videos to Twitter https://twitter.com/AD_MINDSET 
   - 🔌 Ask questions and get support on Discord https://discord.gg/UhE5hQ8c
-  - 💻 Send me an email adam.fraga@hotmail.
+  - 💻 Send me an email adam.fraga@ad-mindset.com
