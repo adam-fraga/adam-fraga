@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working as a Fullstack Web software developer @Tekoway.
+- 🔭 I’m currently working as a Fullstack Web developer @Freelance.
    
 - 🌱 I’m currently learning Rust as my future main server langage.
 
