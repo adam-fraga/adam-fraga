@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working as a Fullstack Web developer @Freelance.
+- 🔭 I’m currently working as a Fullstack Web developer @SopraSteria.
    
 - 🌱 I’m currently learning Rust as my future main server langage.
 
@@ -15,8 +15,8 @@
 
 - 📫 How to reach me: 
 
-  - 🕸️ Website: http://ad-mindset.com
+  - 🕸️ Website: Work in progress
   - 📹 Follow me on YouTube https://www.youtube.com/channel/UCcSD-gm8MWpugT6fHKYwcbw
   - 🐦 I post blogs and videos to Twitter https://twitter.com/AD_MINDSET 
-  - 🔌 Ask questions and get support on Discord https://discord.gg/UhE5hQ8c
+  - 🔌 Ask questions and get support on Discord Work in progress
   - 💻 Send me an email adam.fraga@ad-mindset.com
