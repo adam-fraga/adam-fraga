@@ -18,5 +18,5 @@
   - 🕸️ Website: Work in progress
   - 📹 Follow me on YouTube https://www.youtube.com/channel/UCcSD-gm8MWpugT6fHKYwcbw
   - 🐦 I post blogs and videos to Twitter https://twitter.com/AD_MINDSET 
-  - 🔌 Ask questions and get support on Discord Work in progress
+  - 🔌 Ask questions and get support on Discord: Work in progress
   - 💻 Send me an email adam.fraga@ad-mindset.com
