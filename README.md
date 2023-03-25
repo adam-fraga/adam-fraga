@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working as a Fullstack Web developer @SopraSteria.
+- 🔭 I’m currently working as a Software developer @SopraSteria.
    
 - 🌱 I’m currently learning Rust as my future main server langage.
 
