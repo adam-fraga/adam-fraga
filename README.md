@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a WEB developer
    
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust & Golang
 
 - 🫥 I use Neovim as my main text editor
 
