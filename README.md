@@ -3,11 +3,11 @@
 #### ✨ My informations ✨ 
 
 
-- 🔭 I’m currently working as a WEB developer
+- 🔭 Web/Software Developer (Actually working as a Developer CRM in Montréal QC, Canada)
    
-- 🌱 I’m currently learning Rust & Golang
+- 🌱 Currently working with Rust & Golang for my side projects
 
-- 🫥 I use Neovim as my main text editor
+- 🫥 I am familiar with Postgresql & Mysql
 
     
 #### ✨ Contact ✨ 
@@ -16,6 +16,5 @@
 
   - 🕸️ Website: Work in progress
   - 📹 Follow me on YouTube https://www.youtube.com/channel/UCcSD-gm8MWpugT6fHKYwcbw
-  - 🐦 I post blogs and videos to Twitter https://twitter.com/xxxxx
   - 🔌 Ask questions and get support on Discord: https://discord.gg/sdHTrcaUaR
-  - 💻 By sending an email at: xxxxxx@xxxxxx.com
+  - 💻 By sending an email at: adam.fraga@live.fr
