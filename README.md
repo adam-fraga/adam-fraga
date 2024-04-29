@@ -3,11 +3,18 @@
 #### ✨ My informations ✨ 
 
 
-- 🔭 Web/Software Developer (Actually working as a Developer CRM in Montréal QC, Canada)
+- 🔭 Web/Software Developer (Actually working as as a Technical Analyst / CRM Developer in Montréal QC, Canada)
    
 - 🌱 Currently working with Rust & Golang for my side projects
 
-- 🫥 I am familiar with Postgresql & Mysql
+- 🫥 I am familiar with a lot of tools and SGBD but currently using the following stack:
+  
+   -   Go, Tailwind, htmx, Templ and Typescript as my app stack
+   -   Rust for ponctual Workers
+   -   Postgresql as my main SGBD
+   -   Docker for compatibility across env
+   -   Nginx + Linux VPS to host my core projects
+   -   Github Action for CI CD.  
 
     
 #### ✨ Contact ✨ 
