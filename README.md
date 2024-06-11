@@ -10,8 +10,7 @@
 - 🫥 I am familiar with a lot of tools and SGBD but currently using the following stack:
   
    -   Go, Tailwind, htmx, Templ and Typescript as my app stack
-   -   Rust for ponctual Workers
-   -   Postgresql as my main SGBD
+   -   Postgresql as my main database system
    -   Docker for compatibility across env
    -   Nginx + Linux VPS to host my core projects
    -   Github Action for CI CD.  
