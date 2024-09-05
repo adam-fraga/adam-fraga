@@ -9,6 +9,7 @@ Hi there 👋
       Actively working with Golang.
 
 🫥 Tech Stack:
+
 	•	Backend: Go, C#, Python, TypeScript
 	•	Frontend: React, HTMX, Templ, TypeScript
 	•	Database: PostgreSQL
@@ -17,6 +18,7 @@ Hi there 👋
 	•	CI/CD: Jenkins
 
 ✨ Contact ✨
+
 	📫 How to reach me:
 	•	🕸️ Website: https://admtechlabs.com
 	•	📹 Follow me on YouTube: soon...
