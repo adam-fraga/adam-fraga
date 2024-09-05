@@ -19,7 +19,7 @@ Hi there 👋
 
 	Backend: Go, C#, Python, TypeScript
 	Frontend: React, HTMX, Templ, TypeScript
-	Database: PostgreSQL
+	Database: PostgreSQL, Mysql, Mongo...
 	Tools: Docker, Nginx, Microsoft Azure
 	Hosting: Linux VPS
 	CI/CD: Jenkins
