@@ -1,26 +1,24 @@
-### Hi there 👋
+Hi there 👋
 
-#### ✨ My informations ✨ 
-
-
-- 🔭 Web/Software Developer (Actually working as as a Technical Analyst / CRM Developer in Montréal QC, Canada)
-   
-- 🌱 Currently working with Rust & Golang for my side projects
-
-- 🫥 I am familiar with a lot of tools and SGBD but currently using the following stack:
-  
-   -   Go, Tailwind, htmx, Templ and Typescript as my app stack
-   -   Postgresql as my main database system
-   -   Docker for compatibility across env
-   -   Nginx + Linux VPS to host my core projects
-   -   Github Action for CI CD.  
-
+✨ About Me ✨
+	•	🔭 Web/Software Developer
     
-#### ✨ Contact ✨ 
+   Currently working as a Technical Analyst / CRM Developer in Montréal, QC, Canada.
 
-- 📫 How to reach me: 
+🌱 Side Projects:
+      Actively working with Golang.
 
-  - 🕸️ Website: Work in progress
-  - 📹 Follow me on YouTube https://www.youtube.com/channel/UCcSD-gm8MWpugT6fHKYwcbw
-  - 🔌 Ask questions and get support on Discord: https://discord.gg/sdHTrcaUaR
-  - 💻 By sending an email at: adam.fraga@live.fr
+🫥 Tech Stack:
+	•	Backend: Go, C#, Python, TypeScript
+	•	Frontend: React, HTMX, Templ, TypeScript
+	•	Database: PostgreSQL
+	•	Tools: Docker, Nginx
+	•	Hosting: Linux VPS
+	•	CI/CD: Jenkins
+
+✨ Contact ✨
+	📫 How to reach me:
+	•	🕸️ Website: https://admtechlabs.com
+	•	📹 Follow me on YouTube: soon...
+	•	🔌 Join my Discord community: soon...
+	•	💻 Email: adam.fraga@live.fr
