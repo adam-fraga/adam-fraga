@@ -17,9 +17,12 @@ Hi there 👋
 	•	Hosting: Linux VPS
 	•	CI/CD: Jenkins
 
+ 
+
 ✨ Contact ✨
 
-	📫 How to reach me:
+📫 How to reach me:
+
 	•	🕸️ Website: https://admtechlabs.com
 	•	📹 Follow me on YouTube: soon...
 	•	🔌 Join my Discord community: soon...
