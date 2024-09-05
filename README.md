@@ -10,8 +10,8 @@ Hi there 👋
 
 
 🌱 Side Projects
-
-      	Actively working with Golang.
+	
+ 	Actively working with Golang.
 
 ✨ Skills ✨
 
