@@ -4,32 +4,30 @@ Hi there 👋
 
 🔭 Web/Software Developer
     
-	I specialize in C# and TypeScript within the Microsoft Power Platform and Dataverse at XRM Vision in Montreal, Canada. 
- 	My work involves developing custom plugins for CRM systems and web resources, as well as creating React components for Power Pages, a web portal designed 	to present professional data on websites. 
-  	Additionally, I utilize Microsoft Azure Cloud to optimize and enhance these solutions, delivering robust functionality and an exceptional user experience.
+I’m a Senior Full-Stack Software Engineer and founder of Hannexa, where I design and build a digital insurance platform from the ground up. My work spans backend architecture with Fastify and PostgreSQL, React web applications, Flutter mobile apps, Supabase infrastructure, and AI integrations using OpenAI, Anthropic, and Mistral. I also design business workflows, pricing engines, and cloud infrastructure to deliver scalable, production-ready solutions.
 
 
 🌱 Side Projects
 	
- 	Actively working with Golang.
+ 	Actively working with on Hannexa and Klyxia
+	https://hannexa.fr/
+	https://klyxia.fr/
 
 ✨ Skills ✨
 
 🫥 Tech Stack:
 
-	Backend: Go, C#, Python, TypeScript
-	Frontend: React, HTMX, Templ, TypeScript
-	Database: PostgreSQL, Mysql, Mongo...
-	Tools: Docker, Nginx, Microsoft Azure
-	Hosting: Linux VPS
-	CI/CD: Jenkins
+Backend: Go, C#, TypeScript, Python, Fastify (.NET)
+Frontend: React, Flutter, TypeScript, HTMX, Templ
+Database: PostgreSQL, MySQL, Firebird
+Infrastructure: Docker, Linux, Nginx, Supabase, Microsoft Azure, Hetzner
+AI & Automation: OpenAI, Anthropic, Mistral AI
 
 
 ✨ Contact ✨
 
 📫 How to reach me:
 
-	🕸️ Website: https://admtechlabs.com
-	📹 Follow me on YouTube: soon...
-	🔌 Join my Discord community: soon...
-	💻 Email: adam.fraga@live.fr
+	🕸️ Website: https://adalabs.fr
+	📹 Follow me on YouTube: https://www.youtube.com/@adam-fraga
+	💻 Email: adam.fraga@hotmail.com
