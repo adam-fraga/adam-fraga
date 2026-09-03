@@ -36,22 +36,24 @@ Je travaille actuellement principalement sur **Hannexa** et **Klyxia** :
 Go · C# · TypeScript · Python · .NET
 
 **Frontend / Mobile**
-React · Flutter · TypeScript · HTMX · Templ
+React · Flutter · TypeScript ·
 
 **Bases de données**
-PostgreSQL · MySQL · Firebird
+SQL $ NO Sql PostgreSQL, MongoDB, Mysql, Mariadb, Sqlite...
 
-**Infrastructure**
-Docker · Linux · Nginx · Supabase · Microsoft Azure · Hetzner
+**Infrastructure & DEVOPS**
+Docker · Linux · Nginx · Supabase · Microsoft Azure ·AWS · Hetzner · OVH...
 
 **IA & Automatisation**
-OpenAI · Anthropic · Mistral AI
+OpenAI · Anthropic · Mistral · PI
 
-## 📫 Contact
+✨ Contact ✨
 
-🌐 [adalabs.fr](https://adalabs.fr?utm_source=chatgpt.com)
-📺 [YouTube](https://www.youtube.com/@adam-fraga?utm_source=chatgpt.com)
-✉️ [adam.fraga@hotmail.com](mailto:adam.fraga@hotmail.com)
+📫 Comment me joindre ?
+
+	🕸️ Website: https://adalabs.fr
+	📹 Follow me on YouTube: https://www.youtube.com/@adam-fraga
+	💻 Email: adam.fraga@hotmail.com
 
 🇬🇧 EN
 
@@ -74,9 +76,9 @@ I’m a Senior Full-Stack Software Engineer and founder of Hannexa, where I desi
 
 🫥 Tech Stack:
 
-Backend: Go, C#, TypeScript, Python, Fastify (.NET)
-Frontend: React, Flutter, TypeScript, HTMX, Templ
-Database: PostgreSQL, MySQL, Firebird
+Backend: Go, C#, TypeScript, Python,.NET
+Frontend: React, Flutter, TypeScript
+Database: PostgreSQL, MySQL...
 Infrastructure: Docker, Linux, Nginx, Supabase, Microsoft Azure, Hetzner
 AI & Automation: OpenAI, Anthropic, Mistral AI
 
